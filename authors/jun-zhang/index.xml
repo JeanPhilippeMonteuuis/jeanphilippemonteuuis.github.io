@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jun Zhang | Jean-Philippe Monteuuis</title>
+    <link>https://jeanphilippemonteuuis.github.io/authors/jun-zhang/</link>
+      <atom:link href="https://jeanphilippemonteuuis.github.io/authors/jun-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jun Zhang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 27 Dec 2019 15:39:40 +0000</lastBuildDate>
+    <image>
+      <url>https://jeanphilippemonteuuis.github.io/img/icon-192.png</url>
+      <title>Jun Zhang</title>
+      <link>https://jeanphilippemonteuuis.github.io/authors/jun-zhang/</link>
+    </image>
+    
+    <item>
+      <title>Détection erroné d&#39;un faux à l&#39;aide du système V2X</title>
+      <link>https://jeanphilippemonteuuis.github.io/publication/monteuuis-patent-10/</link>
+      <pubDate>Fri, 27 Dec 2019 15:39:40 +0000</pubDate>
+      <guid>https://jeanphilippemonteuuis.github.io/publication/monteuuis-patent-10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intégration des dimensions d&#39;un véhicule dans un certificat d&#39;authentification</title>
+      <link>https://jeanphilippemonteuuis.github.io/publication/monteuuis-patent-9/</link>
+      <pubDate>Fri, 27 Dec 2019 15:39:40 +0000</pubDate>
+      <guid>https://jeanphilippemonteuuis.github.io/publication/monteuuis-patent-9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Procédé d&#39;aide à la conduite fiable pour l&#39;embarquement et débarquement d&#39;un véhicule cargo communicant sécurisé</title>
+      <link>https://jeanphilippemonteuuis.github.io/publication/monteuuis-patent-6/</link>
+      <pubDate>Fri, 27 Dec 2019 15:39:40 +0000</pubDate>
+      <guid>https://jeanphilippemonteuuis.github.io/publication/monteuuis-patent-6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Procédé d&#39;aide à la conduite pour vérifier l&#39;intégrité d&#39;un panneau de signalisation perçu par caméra</title>
+      <link>https://jeanphilippemonteuuis.github.io/publication/monteuuis-patent-4/</link>
+      <pubDate>Fri, 27 Dec 2019 15:39:40 +0000</pubDate>
+      <guid>https://jeanphilippemonteuuis.github.io/publication/monteuuis-patent-4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Procédé d&#39;aide à la conduite sur un aéroport/port à l&#39;aide d&#39;une infrastructure communicante</title>
+      <link>https://jeanphilippemonteuuis.github.io/publication/monteuuis-patent-7/</link>
+      <pubDate>Fri, 27 Dec 2019 15:39:40 +0000</pubDate>
+      <guid>https://jeanphilippemonteuuis.github.io/publication/monteuuis-patent-7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Procédé de détection de la plausibilité des données V2X basé sur l&#39;agrégation des techniques de mesures du signal radio</title>
+      <link>https://jeanphilippemonteuuis.github.io/publication/monteuuis-patent-5/</link>
+      <pubDate>Fri, 27 Dec 2019 15:39:40 +0000</pubDate>
+      <guid>https://jeanphilippemonteuuis.github.io/publication/monteuuis-patent-5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Procédé de gestion d&#39;un message transmis par une station émettrice d&#39;un système de transport intelligent</title>
+      <link>https://jeanphilippemonteuuis.github.io/publication/monteuuis-patent-3/</link>
+      <pubDate>Fri, 27 Dec 2019 15:39:40 +0000</pubDate>
+      <guid>https://jeanphilippemonteuuis.github.io/publication/monteuuis-patent-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Procédé et système pour traiter un message transmis à un véhicule automobile par une entité communicante distante</title>
+      <link>https://jeanphilippemonteuuis.github.io/publication/monteuuis-patent-8/</link>
+      <pubDate>Fri, 27 Dec 2019 15:39:40 +0000</pubDate>
+      <guid>https://jeanphilippemonteuuis.github.io/publication/monteuuis-patent-8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Procédé sécurisé d&#39;aide à une conduite fiable et sûre pour le franchissement d&#39;un passage à niveau communicant</title>
+      <link>https://jeanphilippemonteuuis.github.io/publication/monteuuis-patent-2/</link>
+      <pubDate>Fri, 27 Dec 2019 15:39:40 +0000</pubDate>
+      <guid>https://jeanphilippemonteuuis.github.io/publication/monteuuis-patent-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>&#34;My autonomous car is an elephant&#34;: A Machine Learning based Detector for Implausible Dimension</title>
+      <link>https://jeanphilippemonteuuis.github.io/publication/monteuuis-2018-machine/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://jeanphilippemonteuuis.github.io/publication/monteuuis-2018-machine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Attacker model for Connected and Automated Vehicles</title>
+      <link>https://jeanphilippemonteuuis.github.io/publication/monteuuis-2018-attacker/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://jeanphilippemonteuuis.github.io/publication/monteuuis-2018-attacker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SARA: Security Automotive Risk Analysis Method</title>
+      <link>https://jeanphilippemonteuuis.github.io/publication/monteuuis-2018-sara/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://jeanphilippemonteuuis.github.io/publication/monteuuis-2018-sara/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Procédé de détection de défaillances et limitations des capteurs à l&#39;aide des communications Car2X</title>
+      <link>https://jeanphilippemonteuuis.github.io/publication/monteuuis-patent-1/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://jeanphilippemonteuuis.github.io/publication/monteuuis-patent-1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

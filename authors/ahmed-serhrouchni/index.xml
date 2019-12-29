@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ahmed Serhrouchni | Jean-Philippe Monteuuis</title>
+    <link>https://jeanphilippemonteuuis.github.io/authors/ahmed-serhrouchni/</link>
+      <atom:link href="https://jeanphilippemonteuuis.github.io/authors/ahmed-serhrouchni/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ahmed Serhrouchni</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jeanphilippemonteuuis.github.io/img/icon-192.png</url>
+      <title>Ahmed Serhrouchni</title>
+      <link>https://jeanphilippemonteuuis.github.io/authors/ahmed-serhrouchni/</link>
+    </image>
+    
+    <item>
+      <title>Using butterfly keys: A performance study of pseudonym certificates requests in C-ITS</title>
+      <link>https://jeanphilippemonteuuis.github.io/publication/hammi-2017-using/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://jeanphilippemonteuuis.github.io/publication/hammi-2017-using/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

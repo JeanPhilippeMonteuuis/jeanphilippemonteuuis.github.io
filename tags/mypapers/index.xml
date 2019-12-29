@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>myPapers | Jean-Philippe Monteuuis</title>
+    <link>https://jeanphilippemonteuuis.github.io/tags/mypapers/</link>
+      <atom:link href="https://jeanphilippemonteuuis.github.io/tags/mypapers/index.xml" rel="self" type="application/rss+xml" />
+    <description>myPapers</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jeanphilippemonteuuis.github.io/img/icon-192.png</url>
+      <title>myPapers</title>
+      <link>https://jeanphilippemonteuuis.github.io/tags/mypapers/</link>
+    </image>
+    
+    <item>
+      <title>&#34;My autonomous car is an elephant&#34;: A Machine Learning based Detector for Implausible Dimension</title>
+      <link>https://jeanphilippemonteuuis.github.io/publication/monteuuis-2018-machine/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://jeanphilippemonteuuis.github.io/publication/monteuuis-2018-machine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Attacker model for Connected and Automated Vehicles</title>
+      <link>https://jeanphilippemonteuuis.github.io/publication/monteuuis-2018-attacker/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://jeanphilippemonteuuis.github.io/publication/monteuuis-2018-attacker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SARA: Security Automotive Risk Analysis Method</title>
+      <link>https://jeanphilippemonteuuis.github.io/publication/monteuuis-2018-sara/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://jeanphilippemonteuuis.github.io/publication/monteuuis-2018-sara/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Asn. 1 specification for ETSI certificates and encoding performance study</title>
+      <link>https://jeanphilippemonteuuis.github.io/publication/hammi-2017-asn/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://jeanphilippemonteuuis.github.io/publication/hammi-2017-asn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Securing PKI Requests for C-ITS Systems</title>
+      <link>https://jeanphilippemonteuuis.github.io/publication/monteuuis-2017-securing/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://jeanphilippemonteuuis.github.io/publication/monteuuis-2017-securing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using butterfly keys: A performance study of pseudonym certificates requests in C-ITS</title>
+      <link>https://jeanphilippemonteuuis.github.io/publication/hammi-2017-using/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://jeanphilippemonteuuis.github.io/publication/hammi-2017-using/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A new service advertisement message for ETSI ITS environments: CAM-Infrastructure</title>
+      <link>https://jeanphilippemonteuuis.github.io/publication/labiod-2016-new/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://jeanphilippemonteuuis.github.io/publication/labiod-2016-new/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

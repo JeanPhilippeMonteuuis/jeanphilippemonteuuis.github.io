@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jonathan Petit | Jean-Philippe Monteuuis</title>
+    <link>https://jeanphilippemonteuuis.github.io/authors/jonathan-petit/</link>
+      <atom:link href="https://jeanphilippemonteuuis.github.io/authors/jonathan-petit/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jonathan Petit</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jeanphilippemonteuuis.github.io/img/icon-192.png</url>
+      <title>Jonathan Petit</title>
+      <link>https://jeanphilippemonteuuis.github.io/authors/jonathan-petit/</link>
+    </image>
+    
+    <item>
+      <title>&#34;My autonomous car is an elephant&#34;: A Machine Learning based Detector for Implausible Dimension</title>
+      <link>https://jeanphilippemonteuuis.github.io/publication/monteuuis-2018-machine/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://jeanphilippemonteuuis.github.io/publication/monteuuis-2018-machine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Attacker model for Connected and Automated Vehicles</title>
+      <link>https://jeanphilippemonteuuis.github.io/publication/monteuuis-2018-attacker/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://jeanphilippemonteuuis.github.io/publication/monteuuis-2018-attacker/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

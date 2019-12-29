@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Brigitte Lonc | Jean-Philippe Monteuuis</title>
+    <link>https://jeanphilippemonteuuis.github.io/authors/brigitte-lonc/</link>
+      <atom:link href="https://jeanphilippemonteuuis.github.io/authors/brigitte-lonc/index.xml" rel="self" type="application/rss+xml" />
+    <description>Brigitte Lonc</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jeanphilippemonteuuis.github.io/img/icon-192.png</url>
+      <title>Brigitte Lonc</title>
+      <link>https://jeanphilippemonteuuis.github.io/authors/brigitte-lonc/</link>
+    </image>
+    
+    <item>
+      <title>Securing PKI Requests for C-ITS Systems</title>
+      <link>https://jeanphilippemonteuuis.github.io/publication/monteuuis-2017-securing/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://jeanphilippemonteuuis.github.io/publication/monteuuis-2017-securing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
